@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\bin\Debug\net6.0\SumOf2Number.exe
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\bin\Debug\net6.0\SumOf2Number.deps.json
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\bin\Debug\net6.0\SumOf2Number.runtimeconfig.json
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\bin\Debug\net6.0\SumOf2Number.dll
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\bin\Debug\net6.0\SumOf2Number.pdb
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\obj\Debug\net6.0\SumOf2Number.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\obj\Debug\net6.0\SumOf2Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\obj\Debug\net6.0\SumOf2Number.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\obj\Debug\net6.0\SumOf2Number.AssemblyInfo.cs
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\obj\Debug\net6.0\SumOf2Number.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\obj\Debug\net6.0\SumOf2Number.dll
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\obj\Debug\net6.0\refint\SumOf2Number.dll
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\obj\Debug\net6.0\SumOf2Number.pdb
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\obj\Debug\net6.0\SumOf2Number.genruntimeconfig.cache
+C:\LFP-195 Batch\MS-Testing\SumOf2Number\SumOf2Number\obj\Debug\net6.0\ref\SumOf2Number.dll
