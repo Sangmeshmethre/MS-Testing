@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hp+1hUKQ60quwxxceUPvtnmj1UkhrhOx5mOMbOOYKMCguhymCq/lr3qmnR0dL4c8jqU30zCo2JfF3KrA6oE2+w==",
+  "success": true,
+  "projectFilePath": "C:\\LFP-195 Batch\\MS-Testing\\CoffeeMaker\\CoffeeMaker\\CoffeeMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssmcm\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\ssmcm\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
+    "C:\\Users\\ssmcm\\.nuget\\packages\\rhinomocks\\3.6.1\\rhinomocks.3.6.1.nupkg.sha512",
+    "C:\\Users\\ssmcm\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RhinoMocks 3.6.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RhinoMocks",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
